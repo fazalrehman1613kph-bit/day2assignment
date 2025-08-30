@@ -1,1 +1,1 @@
-"this is hello from feature branch"
+"this is hello from conflict"
